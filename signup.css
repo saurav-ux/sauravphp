@@ -1,0 +1,15 @@
+body{
+    background-image: url(Office.jpg);
+  background-size: cover;
+background-blend-mode: darken;
+
+}
+.container form{ 
+    background-color: white;
+    width: 40%;
+    margin: auto;  
+    margin-top: 60px;
+    padding: 23px;
+    box-shadow: 10px 10px 8px 10px rgb(207, 207, 207);
+    border-radius: 9px; 
+}

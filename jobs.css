@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body{ 
+    font-family: 'Baloo Paaji 2', cursive;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+ }
+  .a{
+    background-color: rgb(197, 5, 5);
+    color: white;
+   text-decoration: none;
+  }
+  
+  .a ul li{
+    width: 120px;
+      margin: 10px;
+      padding: 8px ;  
+      text-decoration: none;
+    }
+    .li, .a ul li:hover{
+      background: black;
+    border-radius: 3px; 
+    text-decoration: none;
+  }
+  .a ul{
+    
+        list-style: none;
+        display: inline-flex;
+        font-size: large;  
+        text-decoration: none; 
+  }
+
+  #lo{
+   text-decoration: underline;
+
+  }
+  #er{
+      text-decoration: none;
+      color: white;
+  }
+  table{
+      margin-left: 20px;
+      border: solid red;
+      margin-right: 20px;
+  }
+  
+  
+  
+  
+  
+    
+  
+  
+  .foot
+  {
+    background-color: black;
+    color: white;
+  }
